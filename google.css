@@ -1,0 +1,47 @@
+ 
+ a
+{
+	
+	text-decoration: none;
+	color: #444;
+}
+ul li
+{
+   list-style: none;
+ }  
+ #contain
+ {
+ 	text-align: center;
+ }
+header
+ {
+ 	display: flex;
+ 	justify-content: flex-end;
+ 	flex-direction: row;
+}
+li 
+{
+	display: inline-block;
+	padding: 0 10px;
+}
+ nav li a 
+{
+	float: right;
+}
+.france
+{
+     background: rgb(95,99,104);
+     bottom: 0px;
+}
+.general
+{
+	display: inline-block;
+	padding: 0 3px;
+	background: rgb(95,99,104);
+	bottom: 0px;
+}
+footer
+{
+	bottom: 0px;
+}
+
